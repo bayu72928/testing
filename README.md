@@ -1,3 +1,5 @@
+need internet connection
+
 db sql name : mentani
 
 migrate
